@@ -9,6 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "node": "^21.6.1",
+    "nvm": "^0.0.4",
     "vue": "^3.3.11",
     "vue-router": "^4.2.5"
   },
